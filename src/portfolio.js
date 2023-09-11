@@ -348,7 +348,7 @@ const skills = {
 };
 
 // Education Page
-const competitiveSites = {
+/*const competitiveSites = {
   competitiveSites: [
     {
       siteName: "LeetCode",
@@ -399,7 +399,7 @@ const competitiveSites = {
       profileLink: "https://www.kaggle.com/laymanbrother",
     },
   ],
-};
+};*/
 
 const degrees = {
   degrees: [
@@ -411,7 +411,7 @@ const degrees = {
       alt_name: "SUSL",
       duration: "2020 - Present",
       descriptions: [
-        "⚡ I have studied basic Software Engineering subjects:",
+        "⚡ I have studied Software Engineering subjects:",
                 "C",
                 "Java",
                 "DBMS",
@@ -425,7 +425,8 @@ const degrees = {
                 "System Administration and Dsign",
                 "Information System Security and Assurance",
                 "Software Quality Assurance",
-        "⚡ Apart from this, I have studies basic subjects related to Software Project Management and Business Analysis ",
+          
+        "⚡ Apart from this, I have studied subjects related to Software Project Management and Business Analysis ",
                 "Software Project Management",
                 "Agile Software Methodology",
                 "Organizational Behavior and Management",
@@ -438,17 +439,20 @@ const degrees = {
       website_link: "https://www.sab.ac.lk/computing/undergraduate/bsc-is-about",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "National Institute of Business Management",
+      subtitle: "Certificate in Computer Science",
+      logo_path: "NIBM.jpg",
+      alt_name: "NIBM",
+      duration: "2019 - 2020",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have studied basic Computer Science Subjects and Labs",
+                "C",
+                "C#",
+                "MySQL",
+                "HTML, CSS and JS",
+                "Computer Architecture",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.nibm.lk/programmes/certificate-in-computer-science/",
     },
   ],
 };
@@ -815,7 +819,7 @@ export {
   greeting,
   socialMediaLinks,
   skills,
-  competitiveSites,
+  //competitiveSites,
   degrees,
   certifications,
   experience,
