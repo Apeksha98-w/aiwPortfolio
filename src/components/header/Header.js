@@ -108,6 +108,15 @@ class Header extends Component {
                   Contact Me
                 </NavLink>
               </li>
+              <li>
+                <a
+                  className="btn btn-outline-primary cv"
+                  href="/cv/CV_ApekshaWarnakulasuriya.pdf"
+                  download={true}
+                >
+                  Download CV
+                </a>
+              </li>
             </ul>
           </header>
         </div>

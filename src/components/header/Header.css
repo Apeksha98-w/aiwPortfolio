@@ -25,6 +25,14 @@
   text-decoration: none;
 }
 
+.header li .cv:hover {
+  padding: 20px 20px;
+  background-color: lightblue;
+  color: blue;
+  border: 1px solid blue;
+  border-radius: 5%;
+}
+
 .header li a:hover,
 .header .menu-btn:hover {
   /* background-color: #A6E1FA; */
