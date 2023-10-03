@@ -460,111 +460,111 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "Introduction to Cyber Security",
+      subtitle: "CISCO",
+      logo_path: "ICS.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
+        "https://drive.google.com/file/d/1qLk8XEHnRENrJ9BJL8JwhpfzSAFAjeaE/view?usp=sharing",
+      alt_name: "Introduction to Networking Badge",
       color_code: "#FFBB0099",
     },
     {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
+      title: "C For Everyone",
+      subtitle: "Coursera",
+      logo_path: "california.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
+        "https://www.coursera.org/account/accomplishments/certificate/S83Y4QUDPQSC",
+      alt_name: "Santa Cruz- University of California",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Introduction to Cloud",
+      subtitle: "IBM",
+      logo_path: "cloudCore.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1mDaTqmE8sTznyoW49Byan3oE3r8hVf0k/view?usp=drive_link",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "C",
+      subtitle: "Sololearn",
+      logo_path: "solologo.png",
+      certificate_link:
+        "https://www.sololearn.com/certificates/CT-FCF513US",
+      alt_name: "Sololearn",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Python for Data Science",
+      subtitle: "IBM",
+      logo_path: "PythonforData.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1MZ7___GOenyAqg_i2Auix9-2zMv8Jrih/view?usp=sharing",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "IEEEXtreme 15.0",
+      subtitle: "IEEE",
+      logo_path: "xtreme.png",
+      certificate_link:
+        "https://certificate.ieeextreme.org/generate-email-certificate/xKRY6q8i2qzfAZ",
+      alt_name: "IEEEXtreme",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Professional Emails in English",
+      subtitle: "Georgia Institue of Technology",
+      logo_path: "Georgia.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/CD9KLWLL7CY6",
+      alt_name: "Georgia Tech",
+      color_code: "#00000099",
+    },
+    {
+      title: "Introduction to Networking",
+      subtitle: "CISCO",
+      logo_path: "cisco1.png",
+      certificate_link:
+        "https://drive.google.com/drive/u/0/folders/1bBWXidByky8FPqc7-ozA9SGXBJK_l7DY",
+      alt_name: "CISCO",
+      color_code: "#FFBB0099",
+    },
+    {
+      title: "Java",
+      subtitle: "Sololearn",
+      logo_path: "solologo.png",
+      certificate_link:
+        "https://www.sololearn.com/certificates/CT-RE1CJOFK",
+      alt_name: "Sololearn",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Android Studio",
+      subtitle: "Great Learning",
+      logo_path: "gl.jpg",
+      certificate_link:
+        "https://verify.mygreatlearning.com/verify/JEOLFNIS",
+      alt_name: "Great Learning",
+      color_code: "#4285F499",
+    },
+    {
+      title: "Project Management Fundementals",
+      subtitle: "Udemy",
+      logo_path: "u.jpg",
+      certificate_link:
+        "https://udemy-certificate.s3.amazonaws.com/pdf/UC-64b29bcd-2f62-40da-a4ee-13be47cdefd1.pdf",
+      alt_name: "Udemy",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Project Management",
+      subtitle: "Great Learning",
+      logo_path: "gl.jpg",
+      certificate_link:
+        "https://olympus.mygreatlearning.com/courses/66443/certificate",
+      alt_name: "Great Learning",
       color_code: "#4285F499",
     },
   ],
@@ -573,51 +573,52 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  //subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have gained valuable work experience through volunteering opportunities, which I am eager to showcase in my portfolio.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Volunteerships",
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Publicity Leader",
+          company: "IEEE Sri Lanka Section SIGHT",
+          company_url: "https://sight.ieee.lk/",
+          logo_path: "sight.png",
+          duration: "March 2023 - Present",
+          //location: "Hyderabad, Telangana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I am currently working in the technical sub-committee of IEEE Sri Lanka Section SIGHT. This team involves in the Filter of Hope Project that has a great aim of installing water filters in rural areas of Sri Lanka while conducting the STEM UP workshops for the school children. My role is to create and monitor the Public Relation plan and to handle the IEEE SL SIGHT Social Media Platforms regarding this FOH project",
+          
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Content Coordinator",
+          company: "IEEE Student Branch of Sabaragamuwa University of Sri Lanka",
+          company_url: "http://ieee.sab.ac.lk",
+          logo_path: "1.png",
+          duration: "October 2022 - August 2023",
+          location: "SUSL, Belihul Oya",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "I have worked as the Content Coordinator of the IEEE Student Branch of the Sabaragamuwa University. As an executive memeber I had to manage the all the social media platforms of IEE SB SUSL and handle the Designing, Video Editing and Writing teams for achieveing the success of the publicity and marketing plans of the Student Branch. In addition to that, I was responsible to conduct the publicity projects of each and every event we had held during our working period.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          title: "Public Relations Manager",
+          company: "IEEE WIE Affinity Group of Sabaragamuwa University of Sri Lanka",
+          company_url: "http://ieee.sab.ac.lk/wie",
+          logo_path: "wie.png",
+          duration: "June 2021 - October 2022",
+          location: "SUSL, Belihul Oya",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "I was the Public Relations Manager of the initial executive committee of the IEEE WIE AFfinity Group of SUSL. I was in charge of the membership development project since we initiated the IEEE WIE Affinity Group at SUSL and was able to gain memberships with the aid of the ex-com ",
           color: "#fc1f20",
         },
       ],
     },
-    {
+    /*{
       title: "Internships",
       experiences: [
         {
@@ -655,8 +656,8 @@ const experience = {
           color: "#0071C5",
         },
       ],
-    },
-    {
+    },*/
+    /*{
       title: "Volunteerships",
       experiences: [
         {
@@ -716,7 +717,7 @@ const experience = {
           color: "#181717",
         },
       ],
-    },
+    },*/
   ],
 };
 
@@ -724,14 +725,14 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "I mainly focus on mobile application development projects with the use of Flutter framework and Firebase platform.   In addition to that I have contributed to many group projects.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
+    "I have published an article abput Autonomic Systems on IEEE Sri Lanka Section Computer Science Chapter Magazine. As well I hope to work on more publications and research papers in near future",
   avatar_image_path: "projects_image.svg",
 };
 
