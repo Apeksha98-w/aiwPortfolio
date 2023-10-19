@@ -14,7 +14,7 @@ const seo = {
     title: "Apeksha Warnakulasooriya Portfolio",
     type: "website",
     //add my domain url
-    url: "http://ashutoshhathidara.com/",
+    url: "https://apeksha98-w.github.io/aiwPortfolio/#/",
   },
 };
 
@@ -26,8 +26,8 @@ const greeting = {
     "I am passionately dedicated to creating a positive impact on both business and society through technology-driven initiatives.",
   //edit these things
     resumeLink:
-    "https://drive.google.com/file/d/18k8-GWrcQdIW5fqKgmCMQgooLdxLjbMY/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1laG8JppaXzQtBtFW9anMvCxWgMz2GF1Z/view?usp=sharing",
+  portfolio_repository: "https://github.com/Apeksha98-w/aiwPortfolio",
   //edited
   githubProfile: "https://github.com/Apeksha98-w",
 };
@@ -588,7 +588,7 @@ const experience = {
           company_url: "https://sight.ieee.lk/",
           logo_path: "sight.png",
           duration: "March 2023 - Present",
-          //location: "Hyderabad, Telangana",
+          location: "Sri Lanka",
           description:
             "I am currently working in the technical sub-committee of IEEE Sri Lanka Section SIGHT. This team involves in the Filter of Hope Project that has a great aim of installing water filters in rural areas of Sri Lanka while conducting the STEM UP workshops for the school children. My role is to create and monitor the Public Relation plan and to handle the IEEE SL SIGHT Social Media Platforms regarding this FOH project",
           
@@ -739,45 +739,13 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      //id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Autonomic Systems",
+      createdAt: "December, 2022",
+      description: "Article Written on Autonomic Systems published in IEEE Computer Society Sri Lanka Chapter Newsletter Volume 02, Issue 03 & 04  ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+        "https://drive.google.com/file/d/1EgoFxJaz4T5X1TU_P-wrKBwE-Bbc1TY5/view",
+    }
   ],
 };
 
@@ -785,28 +753,28 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "myphoto.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
-  blogSection: {
-    title: "Blogs",
+  blogSection:{
+    title: "",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+      "",
+    link: "",
+    avatar_image_path: "",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
-    avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+      "No:167/2, Old Tangalle Road, Kotuwegoda, Matara. 81000",
+    locality: "",
+    country: "",
+    region: "",
+    postalCode: "",
+    streetAddress: "",
+    avatar_image_path: "",
+    location_map_link: "",
   },
   phoneSection: {
     title: "",
